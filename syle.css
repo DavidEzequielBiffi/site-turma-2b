@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}body{ 
+    font-family: 'Roboto', sans-serif;
+}
+
+.cabecalho {
+    background-color:#7300ff ;
+    color: rgb(255, 0, 0);
+    display: flex; 
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 100%;
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
