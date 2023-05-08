@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: red;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+ .cabeçarios{
+    width: 15%;
+ }
+
+ .cabecalho-imagem{
+    display: inline-block;
+    margin: 0 16px;
+ }
